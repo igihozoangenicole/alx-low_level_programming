@@ -8,3 +8,6 @@ int _sqrt_recursion(int n);
 int is_prime_number(int n);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
+[main a6bd130] main.h to recursion
+ 2 files changed, 13 insertions(+)
+ create mode 100644 0x08-recursion/main.h

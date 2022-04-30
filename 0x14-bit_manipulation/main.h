@@ -11,3 +11,6 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m);
 int get_endianness(void);
 
 #endif
+[main a197237] main.h to bit_manipulation
+ 2 files changed, 16 insertions(+)
+ create mode 100644 0x14-bit_manipulation/main.h
